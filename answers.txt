@@ -1,0 +1,17 @@
+pwd: list current dir.
+mkdir: makes a dir.
+cd: changes current dir.
+
+git config: sets attributes to use for git commits.
+git clone: downloads contents from a remote repo.
+git status: shows status of current directory's repo.
+git add: stages file for commit.
+git commit: commits staged files to local repo.
+git push: uploads commits to remote repo.
+
+Must state: "I did not collaborate with anyone while working on this assignment." if we didnt collaborate, or the names of students collaborated with.
+Must state: "I did not consult any sources other than the textbook while working on this assignment." if we did not use external sources, or list sources used. No AI.
+"Late assignments will be accepted; however, there will be a penalty of 10% per day for submitting late assignments."
+Students are expected to attend class. It is part of the participation grade.
+
+I did not collaborate with anyone while working on this assignment.
