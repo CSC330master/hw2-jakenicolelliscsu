@@ -15,3 +15,4 @@ Must state: "I did not consult any sources other than the textbook while working
 Students are expected to attend class. It is part of the participation grade.
 
 I did not collaborate with anyone while working on this assignment.
+I did not consult any sources other than the textbook while working on this assignment.
